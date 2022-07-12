@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d810b34b-70d1-47c1-857f-b1bafb05a5f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgorithmCoursera.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciModulusHuge.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/GreatestCommonDivisor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LCM.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSumRange.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciSquareSumLastDigit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/FibonacciLastDigit$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/FibonacciLastDigit$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LCM.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LCM.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +55,24 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LCM">
-    <configuration name="AlgorithmCoursera" type="JetRunConfigurationType" temporary="true">
+  <component name="RunManager" selected="Kotlin.FibonacciLastDigitSumRange">
+    <configuration name="FibonacciLastDigit" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciLastDigit" />
       <module name="AlgorithmCoursera" />
-      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciLastDigitSum" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.FibonacciLastDigitSum" />
+      <module name="AlgorithmCoursera" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciLastDigitSumRange" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.FibonacciLastDigitSumRange" />
+      <module name="AlgorithmCoursera" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,32 +84,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestCommonDivisor" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.GreatestCommonDivisor" />
-      <module name="AlgorithmCoursera" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LCM" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.LCM" />
+    <configuration name="FibonacciSquareSumLastDigit" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.FibonacciSquareSumLastDigit" />
       <module name="AlgorithmCoursera" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.FibonacciSquareSumLastDigit" />
+      <item itemvalue="Kotlin.FibonacciLastDigit" />
+      <item itemvalue="Kotlin.FibonacciLastDigitSum" />
+      <item itemvalue="Kotlin.FibonacciLastDigitSumRange" />
       <item itemvalue="Kotlin.FibonacciModulusHuge" />
-      <item itemvalue="Kotlin.LCM" />
-      <item itemvalue="Kotlin.GreatestCommonDivisor" />
-      <item itemvalue="Kotlin.AlgorithmCoursera" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LCM" />
+        <item itemvalue="Kotlin.FibonacciLastDigitSumRange" />
+        <item itemvalue="Kotlin.FibonacciSquareSumLastDigit" />
+        <item itemvalue="Kotlin.FibonacciLastDigitSum" />
+        <item itemvalue="Kotlin.FibonacciLastDigit" />
         <item itemvalue="Kotlin.FibonacciModulusHuge" />
-        <item itemvalue="Kotlin.GreatestCommonDivisor" />
-        <item itemvalue="Kotlin.AlgorithmCoursera" />
       </list>
     </recent_temporary>
   </component>
@@ -127,18 +135,28 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt</url>
-          <line>46</line>
+          <line>48</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt</url>
-          <line>17</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/GreatestCommonDivisor.kt</url>
           <line>32</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSum.kt</url>
+          <line>87</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSumRange.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSumRange.kt</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

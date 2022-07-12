@@ -1,4 +1,4 @@
-package src.main.kotlin
+package src.main.kotlin.week2
 
 import java.util.*
 
@@ -12,7 +12,7 @@ class LCM {
             val a = scanner.nextInt()
             val b = scanner.nextInt()
 
-            println(lcmNew(a, b))
+            println(lcmFaster(a, b))
         }
 
         fun lcmNaive(a: Int, b: Int): Long {
@@ -28,6 +28,36 @@ class LCM {
         //then multiply a and b and divide by c to get lcm - 714552 374513
         private fun lcmNew(a: Int, b: Int): Long {
             return 0L
+        }
+
+        fun lcmFaster(a: Int, b: Int): Long {
+            val q: Long
+            val r: Long
+
+            if (a > b) {
+                q = a.toLong()
+                r = b.toLong()
+            }
+            else {
+                q = b.toLong()
+                r = a.toLong()
+            }
+
+
+            return if (q % r == 0L)
+                q
+            else {
+                (q * r)/ getRemainder(q, r)
+            }
+        }
+
+
+        fun getRemainder(a: Long, b: Long): Long {
+            val rem = a % b
+
+            return if (a % rem == 0L && b % rem == 0L)
+                rem
+            else getRemainder (b, rem)
         }
     }
 }

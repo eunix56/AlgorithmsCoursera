@@ -1,4 +1,4 @@
-package src.main.kotlin
+package src.main.kotlin.week2
 
 import java.util.*
 
