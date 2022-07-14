@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d810b34b-70d1-47c1-857f-b1bafb05a5f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSumRange.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciSquareSumLastDigit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructuresInfo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week3/MaximumLootValue.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/FibonacciLastDigit$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/FibonacciLastDigit$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LCM.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LCM.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/FibonacciLastDigit$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/FibonacciLastDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciLastDigitSum$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciLastDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciLastDigitSumRange$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciLastDigitSumRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciModulusHuge$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciModulusHuge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciSquareSumLastDigit$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/FibonacciSquareSumLastDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/GreatestCommonDivisor$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/GreatestCommonDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCoursera/src/main/kotlin/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week3/GreedyMoneyChange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week3/GreedyMoneyChange.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,57 +63,63 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="src.main.kotlin.week2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FibonacciLastDigitSumRange">
-    <configuration name="FibonacciLastDigit" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciLastDigit" />
-      <module name="AlgorithmCoursera" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.MaximumLootValue">
     <configuration name="FibonacciLastDigitSum" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.FibonacciLastDigitSum" />
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.week2.FibonacciLastDigitSum" />
       <module name="AlgorithmCoursera" />
+      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FibonacciLastDigitSumRange" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.FibonacciLastDigitSumRange" />
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.week2.FibonacciLastDigitSumRange" />
       <module name="AlgorithmCoursera" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciModulusHuge" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.FibonacciModulusHuge" />
-      <module name="AlgorithmCoursera" />
+      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FibonacciSquareSumLastDigit" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.FibonacciSquareSumLastDigit" />
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.week2.FibonacciSquareSumLastDigit" />
+      <module name="AlgorithmCoursera" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreedyMoneyChange" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.week3.GreedyMoneyChange" />
+      <module name="AlgorithmCoursera" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumLootValue" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.kotlin.week3.MaximumLootValue" />
       <module name="AlgorithmCoursera" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.GreedyMoneyChange" />
+      <item itemvalue="Kotlin.MaximumLootValue" />
       <item itemvalue="Kotlin.FibonacciSquareSumLastDigit" />
-      <item itemvalue="Kotlin.FibonacciLastDigit" />
       <item itemvalue="Kotlin.FibonacciLastDigitSum" />
       <item itemvalue="Kotlin.FibonacciLastDigitSumRange" />
-      <item itemvalue="Kotlin.FibonacciModulusHuge" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MaximumLootValue" />
+        <item itemvalue="Kotlin.GreedyMoneyChange" />
+        <item itemvalue="Kotlin.FibonacciLastDigitSum" />
         <item itemvalue="Kotlin.FibonacciLastDigitSumRange" />
         <item itemvalue="Kotlin.FibonacciSquareSumLastDigit" />
-        <item itemvalue="Kotlin.FibonacciLastDigitSum" />
-        <item itemvalue="Kotlin.FibonacciLastDigit" />
-        <item itemvalue="Kotlin.FibonacciModulusHuge" />
       </list>
     </recent_temporary>
   </component>
@@ -134,29 +149,44 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigit.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week2/FibonacciLastDigit.kt</url>
           <line>48</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/GreatestCommonDivisor.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week2/GreatestCommonDivisor.kt</url>
           <line>32</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSum.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week2/FibonacciLastDigitSum.kt</url>
           <line>87</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSumRange.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week2/FibonacciLastDigitSumRange.kt</url>
           <line>35</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/FibonacciLastDigitSumRange.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week2/FibonacciLastDigitSumRange.kt</url>
           <line>41</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week3/GreedyMoneyChange.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week3/GreedyMoneyChange.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/week3/MaximumLootValue.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
